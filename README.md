@@ -3,7 +3,7 @@ This repository contains a web scraper tool developed with GO that runs on a com
 
 ![asciiart](asciiart.png)
 
-Flags
+**Flags**
 
         -1    It is used to scrape news from the first website
         -2    It is used to scrape news from the second website
